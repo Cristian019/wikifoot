@@ -4,7 +4,12 @@
     border: 1px solid #000; /* Borde color negro y de 1 píxel de grosor */
   }
   .rectaguloBuscar{
-    width: 200px;           /* Ancho de 150 píxeles */
-    height: 75px;          /* Alto de 150 píxeles */
+    width: 220px;           /* Ancho de 150 píxeles */
+    height: 35px;          /* Alto de 150 píxeles */
     border: 1px solid #000;
+  }
+  .rectaguloLista{
+    width: 220px;           /* Ancho de 150 píxeles */
+    height: 400px;          /* Alto de 150 píxeles */
+    border: 1px solid #000; 
   }
