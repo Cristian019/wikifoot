@@ -3,6 +3,10 @@
     height: 150px;          
     border: 1px solid #000;
   }
+  .imagenVolver{
+    width: 1em;
+    height: 1em;
+  }
   .rectaguloBuscar{
     width: 220px;          
     height: 35px;          
