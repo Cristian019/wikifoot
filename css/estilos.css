@@ -1,11 +1,29 @@
-.rectangulo1 {
+.cabecera{
+  width: 100%;
+  height: 10%;
+  background-color: aqua;
+  position: relative;
+}
+  .titulo{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  .btm_volver{
+    position: absolute;
+    top: 50%;
+    left: 5%;
+    transform: translate(0%, -50%);
+  }
+  .imagen_volver{
+    width: 1em;
+    height: 1em;
+  }
+  .rectangulo1 {
     width: 150px;           
     height: 150px;          
     border: 1px solid #000;
-  }
-  .imagenVolver{
-    width: 1em;
-    height: 1em;
   }
   .rectaguloBuscar{
     width: 220px;          
